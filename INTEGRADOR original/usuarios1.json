@@ -1,0 +1,12 @@
+{
+    "usuarios": {
+        "enzo": {
+            "contrase\u00f1a": "Sofia123",
+            "tipo": "Cliente"
+        },
+        "gustavo": {
+            "contrase\u00f1a": "Gustavo123",
+            "tipo": "Cliente"
+        }
+    }
+}
